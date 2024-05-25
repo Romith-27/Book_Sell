@@ -1,0 +1,87 @@
+@tailwind components;
+@tailwind utilities;
+@tailwind base;
+
+.login_background {
+    height: 100vh;
+    width: 100vw;
+    background-color: #e0f7ed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup_container {
+    height: 100vh;
+    width: 100vw;
+    background-color: #e0f7ed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login_form {
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10%;
+}
+
+.signup_form {
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10%;
+}
+
+.active-link {
+    color: #4CAF50;
+}
+
+.toast-message {
+    color: black;
+    font-size: 15px;
+    padding: 10px 12px;
+    position: relative;
+    background: #f3f3f3;
+}
+
+.pagination-button {
+    display: flex;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    margin-right: 0.25rem;
+    justify-content: center;
+    align-items: center;
+    border-width: 1px;
+    border-color: #D1D5DB;
+    height: 2rem;
+    line-height: 1.25;
+    color: #6B7280;
+    background-color: #ffffff;
+}
+
+.pagination-button:hover {
+    color: #374151;
+    background-color: #4CAF50;
+}
+
+.pagination-button-active {
+    display: flex;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    margin-right: 0.25rem;
+    justify-content: center;
+    align-items: center;
+    border-width: 1px;
+    border-color: #D1D5DB;
+    height: 2rem;
+    line-height: 1.25;
+    color: #6B7280;
+    background-color: #4CAF50;
+    color: white;
+}

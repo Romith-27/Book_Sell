@@ -1,0 +1,132 @@
+[
+  {
+    "_id": {
+      "$oid": "6571ab2ad20dbeb7833f2eaa"
+    },
+    "name": "Self-Help",
+    "description": "Provides guidance and advice for personal improvement or problem-solving",
+    "books": [
+      {
+        "$oid": "6571b08a5be2841488c7d2df"
+      },
+      {
+        "$oid": "6571b1375be2841488c7d2e4"
+      },
+      {
+        "$oid": "6571b1f35be2841488c7d2e9"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571ab40d20dbeb7833f2ead"
+    },
+    "name": "History",
+    "description": "Explores events, periods, or eras from the past",
+    "books": [
+      {
+        "$oid": "6571b7445be2841488c7d307"
+      },
+      {
+        "$oid": "6571b7d55be2841488c7d30c"
+      },
+      {
+        "$oid": "6571b8295be2841488c7d311"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571abb5d20dbeb7833f2eb0"
+    },
+    "name": "Literary Fiction",
+    "description": "Emphasizes the quality and style of writing, often delving into deeper themes and character development",
+    "books": [
+      {
+        "$oid": "6571b8795be2841488c7d316"
+      },
+      {
+        "$oid": "6571b8e55be2841488c7d31b"
+      },
+      {
+        "$oid": "6571b9355be2841488c7d320"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571abccd20dbeb7833f2eb3"
+    },
+    "name": "Fantasy",
+    "description": "Involves magical or supernatural elements often set in imaginary worlds",
+    "books": [
+      {
+        "$oid": "6571b6745be2841488c7d2fd"
+      },
+      {
+        "$oid": "6571b6c75be2841488c7d302"
+      },
+      {
+        "$oid": "657212ba8d8541d05612d3d7"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571abe0d20dbeb7833f2eb6"
+    },
+    "name": "Travel",
+    "description": "Guides or narratives about different places, cultures, and experiences",
+    "books": [
+      {
+        "$oid": "6571c04b5be2841488c7d32b"
+      },
+      {
+        "$oid": "657213078d8541d05612d3dc"
+      },
+      {
+        "$oid": "657213978d8541d05612d3e4"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571ac6c5be2841488c7d2b7"
+    },
+    "name": "Mystery",
+    "description": "Focuses on suspense, crime, and solving mysteries.",
+    "books": [
+      {
+        "$oid": "6571b9815be2841488c7d325"
+      },
+      {
+        "$oid": "657214268d8541d05612d3ec"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571ac865be2841488c7d2ba"
+    },
+    "name": "Biography",
+    "description": "Tells the story of someone's life (autobiography - written by the person themselves; biography - written by another person)",
+    "books": [
+      {
+        "$oid": "6571b5875be2841488c7d2ef"
+      },
+      {
+        "$oid": "6571b5cf5be2841488c7d2f4"
+      },
+      {
+        "$oid": "6571b6315be2841488c7d2f8"
+      }
+    ],
+    "__v": 0
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "_id": {
+      "$oid": "6571b08a5be2841488c7d2df"
+    },
+    "bookPhoto": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8t902mozZtNMVvdk7a3yyhtE1ToWBBpWoa4-w_9oYPu7ebi1k",
+    "bookName": "Think and Grow Rich",
+    "publicationYear": "1937",
+    "author": "Napolean Hill",
+    "bookDescription": "Think and Grow Rich is a book written by Napoleon Hill and Rosa Lee Beeland released in 1937 and promoted as a personal development and self-improvement book. He claimed to be inspired by a suggestion from business magnate and later-philanthropist Andrew Carnegie. However there is no evidence that the two ever met.",
+    "availability": true,
+    "category": "Self-Help",
+    "availableCopies": 98,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571b1375be2841488c7d2e4"
+    },
+    "bookPhoto": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNCZVKGZCDGqfv4qpDOKXcs9bXz47XnWiUbmDr-PsqRbxFvclW",
+    "bookName": "The Four Agreements",
+    "publicationYear": "1997",
+    "author": "Don Miguel Ruiz",
+    "bookDescription": "The Four Agreements: A Practical Guide to Personal Freedom is a self-help book by the author Don Miguel Ruiz. The book outlines a code of conduct based on ancient Toltec wisdom – advocating freedom from self-limiting beliefs which bring suffering and limitation to one's life.\n\nThe book was originally published in 1997 by Amber-Allen publishing in San Rafael, California. An illustrated edition was later published by the same company in 2010 to celebrate the book's 15th anniversary.[1]",
+    "availability": true,
+    "category": "Self-Help",
+    "availableCopies": 19,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571b1f35be2841488c7d2e9"
+    },
+    "bookPhoto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRitSgR4ft1YjYWHncBjUNuKlsC7h9X6Rude3N-JveEbuSr3BVz",
+    "bookName": "How to win friends and influence people. How to stop worrying and start living",
+    "publicationYear": "1936",
+    "author": "Dale Carnegie",
+    "bookDescription": "How to Win Friends and Influence People is a 1936 self-help book written by Dale Carnegie. Over 30 million copies have been sold worldwide, making it one of the best-selling books of all time.[1][2]\n\nCarnegie had been conducting business education courses in New York since 1912.[3] In 1934, Leon Shimkin, of the publishing firm Simon & Schuster, took one of Carnegie's 14-week courses on human relations and public speaking, and later persuaded Carnegie to let a stenographer take notes from the course to be revised for publication.[3] The initial five thousand copies of the book sold exceptionally well, going through 17 editions in its first year alone.[3]",
+    "availability": true,
+    "category": "Self-Help",
+    "availableCopies": 67,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571b5875be2841488c7d2ef"
+    },
+    "bookPhoto": "https://upload.wikimedia.org/wikipedia/en/3/3a/Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg",
+    "bookName": "Wings of Fire",
+    "publicationYear": "1999",
+    "author": "A P J Abdul Kalam, Arun Tiwari",
+    "bookDescription": "In the autobiography, Kalam examines his early life, effort, hardship, fortitude, luck and chance that eventually led him to lead Indian space research, nuclear and missile programs. Kalam started his career, after graduating from Aerospace engineering at Madras Institute of Technology, at Hindustan Aeronautics Limited and was assigned to build a hovercraft prototype. Later he moved to ISRO and helped establish the Vikram Sarabhai Space Centre and pioneered the first space launch-vehicle program. During the 1990s and early 2000, Kalam moved to the DRDO to lead the Indian nuclear weapons program, with particular successes in thermonuclear weapons development culminating in the operation Smiling Buddha and an ICBM Agni.",
+    "availability": true,
+    "category": "Biography",
+    "availableCopies": 180,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571b5cf5be2841488c7d2f4"
+    },
+    "bookPhoto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXg7_stoETYjcfE5VfwltneHCZV7MrZCMRXiXyycxad5Djotdn",
+    "bookName": "The Story of My Experiments with Truth",
+    "publicationYear": "1948",
+    "author": "Mohandas Karamchand Gandhi",
+    "bookDescription": "The Story of My Experiments with Truth (, lit. 'Experiments of Truth or Autobiography') is the autobiography of Mahatma Gandhi, covering his life from early childhood through to 1921. It was written in weekly installments and published in his journal Navjivan from 1925 to 1929. Its English translation also appeared in installments in his other journal Young India.[1] It was initiated at the insistence of Swami Anand and other close co-workers of Gandhi, who encouraged him to explain the background of his public campaigns. In 1998, the book was designated as one of the \"100 Best Spiritual Books of the 20th Century\" by a committee of global spiritual and religious authorities.",
+    "availability": true,
+    "category": "Biography",
+    "availableCopies": 1000,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571b6315be2841488c7d2f8"
+    },
+    "bookPhoto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2k4P1Mk2oKRRWcncYAbDL6q3mAwbc7hxikLYOF5mgkz1-QwaK",
+    "bookName": "Steve Jobs",
+    "publicationYear": "2011",
+    "author": "Walter Isaacson",
+    "bookDescription": "Based on more than 40 interviews with Jobs conducted over two years—in addition to interviews with more than 100 family members, friends, adversaries, competitors, and colleagues—Isaacson was given \"unprecedented\" access to Jobs's life.[3] Jobs is said to have encouraged the people interviewed to speak honestly. Although Jobs cooperated with the book, he asked for no control over its content other than the book's cover, and waived the right to read it before it was published. Describing his writing, Isaacson commented that he had striven to take a balanced view of his subject that did not sugarcoat Jobs's flaws.",
+    "availability": true,
+    "category": "Biography",
+    "availableCopies": 6,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571b6745be2841488c7d2fd"
+    },
+    "bookPhoto": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQu_0mqdwmI736SM0UbX6If_BiG_SdzMkyP7U1hWS08Ku7z8_tA",
+    "bookName": "A Wizard of Earthsea",
+    "publicationYear": "1968",
+    "author": "Ursula K. Le Guin",
+    "bookDescription": "A Wizard of Earthsea is a fantasy novel written by American author Ursula K. Le Guin and first published by the small press Parnassus in 1968. It is regarded as a classic of children's literature and of fantasy, within which it is widely influential. The story is set in the fictional archipelago of Earthsea and centers on a young mage named Ged, born in a village on the island of Gont. He displays great power while still a boy and joins a school of wizardry, where his prickly nature drives him into conflict with a fellow student. During a magical duel, Ged's spell goes awry and releases a shadow creature that attacks him. The novel follows Ged's journey as he seeks to be free of the creature.",
+    "availability": true,
+    "category": "Fantasy",
+    "availableCopies": 10,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571b6c75be2841488c7d302"
+    },
+    "bookPhoto": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeTgmh2jFTcc3bkiWHDN3SdtEWJqFxW2UaFCsjZ26Z0iYihXNu",
+    "bookName": "Children of Blood and Bone",
+    "publicationYear": "2018",
+    "author": "Tomi Adeyemi",
+    "bookDescription": "Children of Blood and Bone is a 2018 young adult fantasy novel by Nigerian-American novelist Tomi Adeyemi. The book, Adeyemi's debut novel and the first book in a planned trilogy, follows heroine Zélie Adebola as she attempts to restore magic to the kingdom of Orïsha, following the ruling class kosidáns' brutal suppression of the class of magic practitioners Zélie belongs to, the maji.",
+    "availability": true,
+    "category": "Fantasy",
+    "availableCopies": 398,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571b7445be2841488c7d307"
+    },
+    "bookPhoto": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaFykScx2obz8sFr-5lQMycKeolTAXUBaeyCSNvx7QACzAE1Am",
+    "bookName": "The Guns of August",
+    "publicationYear": "1962",
+    "author": "Barbara W. Tuchman",
+    "bookDescription": "The Guns of August thus provides a narrative of the earliest stages of World War I, from the decisions to go to war, up until the start of the Franco-British offensive that stopped the German advance into France. The result was four years of trench warfare. In the course of her narrative Tuchman includes discussion of the plans, strategies, world events, and international sentiments before and during the war.",
+    "availability": true,
+    "category": "History",
+    "availableCopies": 111,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571b7d55be2841488c7d30c"
+    },
+    "bookPhoto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToudac2UJnWZPInuX09HA_FBruYDgQPmRQ_Gx7lx49h7iBCUPx",
+    "bookName": "The Last Mughal",
+    "publicationYear": "2006",
+    "author": "William Dalrymple",
+    "bookDescription": "Jhon Keay's India: A History is a probing and provocative chronicle of five thousand years of South Asian history, from the first Harrapan settlements on the banks of the Indus River to the recent nuclear-arms race. In a tour de force of narrative history, Keay blends together insights from a variety of scholarly fields and weaves them together to chart the evolution of the rich tapestry of cultures, religions, and peoples that makes up the modern nations of Pakistan, India, and Bangladesh.\nAuthoritative and eminently readable, India: A History is a compelling epic portrait of one of the world's oldest and most richly diverse civilizations.",
+    "availability": true,
+    "category": "History",
+    "availableCopies": 114,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571b8295be2841488c7d311"
+    },
+    "bookPhoto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7s3LjayS3gj1Zb8BQKYYND4YHNAf6UF3oLdZyvMgzxmnJvFnx",
+    "bookName": "India After Gandhi",
+    "publicationYear": "2007",
+    "author": "Ramachandra Guha",
+    "bookDescription": "India After Gandhi: The History of the World's Largest Democracy is a non-fiction book by Indian historian Ramachandra Guha. First published by HarperCollins in August 2007.[1][2]\n\nThe book covers the history of the India after it gained independence from the British in 1947.[1] A revised and expanded edition was published in 2017.",
+    "availability": true,
+    "category": "History",
+    "availableCopies": 100,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571b8795be2841488c7d316"
+    },
+    "bookPhoto": "https://m.media-amazon.com/images/I/81IzbD2IiIL._AC_UF1000,1000_QL80_.jpg",
+    "bookName": "The Kite Runner",
+    "publicationYear": "2003",
+    "author": "\tKhaled Hosseini",
+    "bookDescription": "The Kite Runner is the first novel by Afghan-American author Khaled Hosseini.[1] Published in 2003 by Riverhead Books, it tells the story of Amir, a young boy from the Wazir Akbar Khan district of Kabul. The story is set against a backdrop of tumultuous events, from the fall of Afghanistan's monarchy through the Soviet invasion, the exodus of refugees to Pakistan and the United States, and the rise of the Taliban regime.",
+    "availability": true,
+    "category": "Literary Fiction",
+    "availableCopies": 100,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571b8e55be2841488c7d31b"
+    },
+    "bookPhoto": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7k-Wvxyk4NbYACAHteBoj0ivkURHZcLP2lRmyCukBgq3W6BEJ",
+    "bookName": "The Secret History",
+    "publicationYear": "1992",
+    "author": "Donna Tratt",
+    "bookDescription": "The Secret History is the first novel by the American author Donna Tartt, published by Alfred A. Knopf in September 1992. Set in New England, the campus novel tells the story of a closely knit group of six classics students at Hampden College, a small, elite liberal arts college located in Vermont based upon Bennington College, where Tartt was a student between 1982 and 1986.",
+    "availability": true,
+    "category": "Literary Fiction",
+    "availableCopies": 100,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571b9355be2841488c7d320"
+    },
+    "bookPhoto": "https://images.penguinrandomhouse.com/cover/9780812979657",
+    "bookName": "The God of Small Things",
+    "publicationYear": "1997",
+    "author": "Arundhati Roy",
+    "bookDescription": "The God of Small Things is a family drama novel written by Indian writer Arundhati Roy. Roy's debut novel, it is a story about the childhood experiences of fraternal twins whose lives are destroyed by the \"Love Laws\" prevalent in 1960s Kerala, India. The novel explores how small, seemingly insignificant occurrences, decisions and experiences shape people's behavior in deeply significant ways. The novel also explores the lingering effects of casteism in India, lending a culturally-specific critique of British colonialism in India. It won the Booker Prize in 1997.",
+    "availability": true,
+    "category": "Literary Fiction",
+    "availableCopies": 19,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571b9815be2841488c7d325"
+    },
+    "bookPhoto": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROAdMD08qYJH6jz7rniD1DS1oAAuSHVDMH_XpZR3NES9WoUh66",
+    "bookName": "Girl in Room 105",
+    "publicationYear": "2018",
+    "author": "Chetan Bhagat",
+    "bookDescription": "The Girl in Room 105 is the eighth novel and the tenth book overall written by the Indian author Chetan Bhagat.[1][2] The book became a bestseller based on prearranged sales alone.[3] It tells about an IIT coaching class tutor who goes to wish his ex-girlfriend on her birthday and finds her murdered. The rest of the story is his journey where he stands by his ex-girlfriend after her death to find justice. The book also addresses the stereotypes and political issues in India.\n\nThe novel opens up with a conversation of the author of the book, Chetan Bhagat with a fellow passenger on a midnight IndiGo flight from Hyderabad to Delhi. After an initial conversation, Chetan agrees to listen to the story of the fellow passenger. Soon after, the fellow passenger starts narrating his story to the author",
+    "availability": true,
+    "category": "Mystery",
+    "availableCopies": 100,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6571c04b5be2841488c7d32b"
+    },
+    "bookPhoto": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFVT112Iw1mWbCNsWCKrnnuIZK8tSWHbMd-nk3PG_UUptoREam",
+    "bookName": "City of Djinns",
+    "publicationYear": "1993",
+    "author": "William Dalrymple",
+    "bookDescription": "City of Djinns: A Year in Delhi (1993) is a travelogue by William Dalrymple about the historical capital of India, Delhi. It is his second book, and culminated as a result of his six-year stay in New Delhi.\n\nThe City of Djinns is one of the first books by William Dalrymple which doesn't revolve around the history of India, rather it represents various anecdotes of his time in India and explores the history of India with the help of various characters he meets, like the Puri family, the driver, the customs officer, and British survivors of the Raj,[1] as well as whirling dervishes and eunuch dancers (‘a strange mix of piety and bawdiness’). Dalrymple describes ancient ruins[1] and the experience of living in the modern city: he goes in search of the history behind the epic stories of the Mahabharata. Still more seriously, he finds evidence of the city’s violent past and present day—the 1857 mutiny against British rule; the Partition massacres in 1947; and the riots after the assassination of Indira Gandhi in 1984.",
+    "availability": true,
+    "category": "Travel",
+    "availableCopies": 100,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "657212ba8d8541d05612d3d7"
+    },
+    "bookPhoto": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYisaUmj_O1OW2RBDwjgs2bjKSP4N8idE7LsOL6BuKe4YcxQGt",
+    "bookName": "American Gods",
+    "publicationYear": "2001",
+    "author": "Neil Gaiman",
+    "bookDescription": "American Gods (2001) is a fantasy novel by British author Neil Gaiman. The novel is a blend of Americana, fantasy, and various strands of ancient and modern mythology, all centering on the mysterious and taciturn Shadow.\n\nThe book was published in 2001 by Headline in the United Kingdom and by William Morrow in the United States. It gained a positive critical response and won the 2002 Hugo and Nebula awards.[1]",
+    "availability": true,
+    "category": "Fantasy",
+    "availableCopies": 100,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "657213078d8541d05612d3dc"
+    },
+    "bookPhoto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREVWL2_KA5-73wpEjm9fLWhh-iuj3V3S4x-lw7XefFhQDtg5hy",
+    "bookName": "Shantaram",
+    "publicationYear": "2003",
+    "author": "\tGregory David Roberts",
+    "bookDescription": "Shantaram is a 2003 novel by Gregory David Roberts, in which a convicted Australian bank robber and heroin addict escapes from Pentridge Prison and flees to India. The novel is commended by many for its vivid portrayal of life in Bombay in the early to late 1980s.\n\nThe novel is reportedly influenced by real events in the life of the author, though some claims made by Roberts are contested by others involved in the story.",
+    "availability": true,
+    "category": "Travel",
+    "availableCopies": 10,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "657213978d8541d05612d3e4"
+    },
+    "bookPhoto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeomBnNZunMw2Nd1Qh7XQqm4MxWf4OXWI44WI4jRUwXJxeus8J",
+    "bookName": "India - Culture Smart! The Essential Guide to Customs & Culture",
+    "publicationYear": "2016",
+    "author": "SARAH STANDISH",
+    "bookDescription": "India’s population of 1.2 billion is as varied and colorful as the spice markets of Old Delhi. Each region, caste, and community has its own culture, reflecting unique histories shaped by conquest, creativity, and religion, expressed in distinct languages, social customs, art forms, and expectations of life.\n\nDespite enormous recent political and economic change, in many ways India remains the same—a total sensory experience. The chaos and beauty of color and sound, the language shifts every ten miles, the household variations of spicy and sharp, sweet and sour, the insistent smells of everyday life lived very much in public, and the invasion of personal space will challenge the most experienced traveler. But it is in surrendering to your senses that you begin to embrace the essence of India and to understand its people.\n",
+    "availability": true,
+    "category": "Travel",
+    "availableCopies": 167,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "657214268d8541d05612d3ec"
+    },
+    "bookPhoto": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWU3Wr4F8tw7NGLu9GU4ZoTQXWe8Xm2SbcWvpfzeGuJB6_ixrF",
+    "bookName": "The Hidden Hindu",
+    "publicationYear": "2020",
+    "author": "Akshat Gupta",
+    "bookDescription": "Prithvi, a twenty-one-year-old, is searching for a mysterious middle-aged aghori (Shiva devotee), Om Shastri, who was traced more than 200 years ago before he was captured and transported to a high-tech facility on an isolated Indian island. When the aghori was drugged and hypnotized for interrogation by a team of specialists, he claimed to have witnessed all four yugas (the epochs in Hinduism) and even participated in both Ramayana and Mahabharata. Om’s revelations of his incredible past that defied the nature of mortality left everyone baffled. The team also discovers that Om had been in search of the other immortals from every yuga. These bizarre secrets could shake up the ancient beliefs of the present and alter the course of the future. So who is Om Shastri? Why was he captured? Board the boat of Om Shastri’s secrets, Prithvi’s pursuit and adventures of other enigmatic immortals of Hindu mythology in this exciting and revealing journey.",
+    "availability": true,
+    "category": "Mystery",
+    "availableCopies": 5,
+    "__v": 0
+  }
+]
